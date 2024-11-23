@@ -15,5 +15,13 @@ public class GitClassCreation {
 	{
 		System.out.println("Hey !!!! Yo..........");
 	}
+	
 
+	public static void m1(int a)
+	
+	{
+		System.out.println("Hey !!!! Yo..........");
+	
+
+}
 }
