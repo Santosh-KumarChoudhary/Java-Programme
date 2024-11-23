@@ -30,4 +30,17 @@ public class GitClassCreation {
 	{
 		System.out.println("QA Branch");
 	}
+	
+public static void qaBranch2()
+	
+	{
+		System.out.println("QA Branch");
+	}
+
+
+public static void qaBranch3()
+
+{
+	System.out.println("QA Branch");
+}
 }
